@@ -1,1 +1,1 @@
-# FourierSeries_-Lab2-
+# Exercises on the Fourier series
